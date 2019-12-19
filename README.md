@@ -1,4 +1,4 @@
-# Datawarehousing final project: *New York City this week* 
+# Datawarehousing Final Project: *NYC at a Glance* 
 ​
 ​For this project we are going to collect data from New York City's [Open Data API](https://opendata.cityofnewyork.us/) in order to provide an overview of different aspects of the city in the previous week. To do this, we will build a datawarehousing architecture that relies mainly on Amazon Web Services (AWS). The diagram below depicts this structure.
 
